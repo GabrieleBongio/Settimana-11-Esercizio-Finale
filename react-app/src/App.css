@@ -1,0 +1,56 @@
+.home-bg {
+  background: rgb(46, 63, 87);
+  background: linear-gradient(90deg, rgb(63, 86, 119) 0%, rgba(33, 44, 61, 1) 42%, rgb(15, 21, 29) 100%);
+}
+
+.fs-7 {
+  font-size: 0.8rem;
+}
+
+.navLink {
+  color: white !important;
+  font-weight: 700;
+  opacity: 0.3;
+}
+
+.sideLink {
+  color: white !important;
+  opacity: 0.7;
+}
+
+.navLink:hover,
+.sideLink:hover {
+  color: white;
+  text-decoration: none;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.m-svg {
+  margin-top: -4px;
+}
+
+.opacity-100-hover:hover {
+  opacity: 1 !important;
+}
+
+.height-100 {
+  min-height: 100vh;
+}
+
+.btn-green:hover {
+  background-color: #3cd33c;
+  border-color: #3cd33c;
+  color: white;
+  transition: 0.3s;
+}
+
+.my-hover:hover {
+  background-color: #3cd33c30;
+  cursor: pointer;
+}
+
+.my-hover-card:hover {
+  background-color: #ffffff20;
+  cursor: pointer;
+}
